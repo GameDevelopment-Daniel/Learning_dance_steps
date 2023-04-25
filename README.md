@@ -8,8 +8,7 @@
 
 המשחק מיועד למשחק מחשב.
 
-פירוט נוסף אפשר לראות בדף ה [Wiki](https://github.com/GameDevelopment-Daniel/Learning_dance_steps/wiki)
-</br></br>
+פירוט נוסף אפשר לראות בדף ה [Wiki](https://github.com/GameDevelopment-Daniel/Learning_dance_steps/wiki).</br></br>
 To play the game, click [here](https://daniel-zaken.itch.io/learning-dance-steps-first-part).
 </br></br>
 פירוט מה נעשה בחלק הראשון של המימוש:
