@@ -9,7 +9,7 @@
 המשחק מיועד למשחק מחשב.
 
 פירוט נוסף אפשר לראות בדף ה Wiki , קישור לדף : https://github.com/GameDevelopment-Daniel/Learning_dance_steps/wiki
-</br>
+</br></br>
 קישור למשחק : https://daniel-zaken.itch.io/learning-dance-steps-first-part
 
 פירוט מה נעשה בחלק הראשון של המימוש:
