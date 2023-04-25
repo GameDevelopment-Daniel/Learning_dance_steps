@@ -11,7 +11,7 @@
 פירוט נוסף אפשר לראות בדף ה Wiki , קישור לדף : https://github.com/GameDevelopment-Daniel/Learning_dance_steps/wiki
 </br></br>
 קישור למשחק : https://daniel-zaken.itch.io/learning-dance-steps-first-part
-</br>
+</br></br>
 
 פירוט מה נעשה בחלק הראשון של המימוש:
 נבנתה הסביבה הבסיסית של המשחק שמכילה בעיקר את הרקע, בנוסף נוצר השחקן במראה בסיסי וגם מומש היכולות של להזיז את הרגליים והידיים בשביל לבצע תנועות ריקוד עתידיות.</br>
